@@ -1,0 +1,10 @@
+1.配合关系型数据库做高速缓存
+2.缓存高频次访问的数据，降低数据库io
+3.分布式架构，做session共享
+4.可以持久化特定数据。
+5.利用zset类型可以存储排行榜
+6.利用list的自然时间排序存储最新n个数据
+
+redis-benchmark：性能测试工具
+redis-server：启动redis服务器
+redis-cli：启动redis客户端，操作入口

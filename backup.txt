@@ -1,0 +1,1496 @@
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=456001
+  @2='全部'
+  @3=456001
+  @4='0'
+  @5=1516867439
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100003
+  @2='ken'
+  @3=456001
+  @4='0'
+  @5=1540286593
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100004
+  @2='2222'
+  @3=456001
+  @4='0'
+  @5=1542967288
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100005
+  @2='2222'
+  @3=456001
+  @4='0'
+  @5=1542967305
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100006
+  @2='test'
+  @3=456001
+  @4='0'
+  @5=1542967454
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100007
+  @2='test2'
+  @3=456001
+  @4='0'
+  @5=1542967485
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100008
+  @2='234234234'
+  @3=456001
+  @4='0'
+  @5=1542967508
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100009
+  @2='2323'
+  @3=456001
+  @4='0'
+  @5=1542967539
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45600100010
+  @2='33434'
+  @3=456001
+  @4='0'
+  @5=1542967568
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=1
+  @2='全部'
+  @3=1
+  @4='0'
+  @5=1500550883
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=1110
+  @2='全部'
+  @3=1110
+  @4='0'
+  @5=1533710533
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=2222
+  @2='批量测试2'
+  @3=1001
+  @4='1'
+  @5=1502763471
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3001
+  @2='全部'
+  @3=3001
+  @4='0'
+  @5=1516244447
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3002
+  @2='全部'
+  @3=3002
+  @4='0'
+  @5=1516260090
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3003
+  @2='全部'
+  @3=3003
+  @4='0'
+  @5=1523929319
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3004
+  @2='全部'
+  @3=3004
+  @4='0'
+  @5=1523929466
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3005
+  @2='全部'
+  @3=3005
+  @4='0'
+  @5=1525759324
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3006
+  @2='全部'
+  @3=3006
+  @4='0'
+  @5=1533709434
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3007
+  @2='全部'
+  @3=3007
+  @4='0'
+  @5=1537434793
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3008
+  @2='全部'
+  @3=3008
+  @4='0'
+  @5=1540888977
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3009
+  @2='全部'
+  @3=3009
+  @4='0'
+  @5=1540890481
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=3010
+  @2='全部'
+  @3=3010
+  @4='0'
+  @5=1540890610
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5001
+  @2='全部'
+  @3=5001
+  @4='0'
+  @5=1502259475
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5002
+  @2='全部'
+  @3=5002
+  @4='0'
+  @5=1502259595
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5003
+  @2='全部'
+  @3=5003
+  @4='0'
+  @5=1502963465
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5501
+  @2='全部'
+  @3=5501
+  @4='0'
+  @5=1502259475
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5508
+  @2='全部'
+  @3=5508
+  @4='0'
+  @5=1504267121
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5530
+  @2='全部'
+  @3=5530
+  @4='0'
+  @5=1535368620
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11111
+  @2='批量测试1'
+  @3=1000
+  @4='1'
+  @5=1502763471
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=45601
+  @2=' 全部'
+  @3=45601
+  @4='0'
+  @5=1535680934
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=50001
+  @2='全部'
+  @3=50001
+  @4='0'
+  @5=1503904078
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55001
+  @2='全部'
+  @3=55001
+  @4='0'
+  @5=1536558786
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55002
+  @2='全部'
+  @3=55002
+  @4='0'
+  @5=1536558830
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55003
+  @2='全部'
+  @3=55003
+  @4='0'
+  @5=1536558857
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55009
+  @2='全部'
+  @3=55009
+  @4='0'
+  @5=1537440350
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55010
+  @2='全部'
+  @3=55010
+  @4='0'
+  @5=1537440446
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=66001
+  @2='全部'
+  @3=66001
+  @4='0'
+  @5=1536559093
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=66002
+  @2='全部'
+  @3=66002
+  @4='0'
+  @5=1536559117
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=86001
+  @2='全部'
+  @3=86001
+  @4='0'
+  @5=1516171825
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=100101
+  @2='全部'
+  @3=100101
+  @4='0'
+  @5=1495086952
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=100102
+  @2='全部'
+  @3=100102
+  @4='0'
+  @5=1498192232
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=100901
+  @2='全部'
+  @3=100901
+  @4='0'
+  @5=1498192232
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=100902
+  @2='全部'
+  @3=100902
+  @4='0'
+  @5=1498192232
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=110001
+  @2='全部'
+  @3=110001
+  @4='0'
+  @5=1503467368
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=110002
+  @2='全部'
+  @3=110002
+  @4='0'
+  @5=1503467408
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=110003
+  @2='全部'
+  @3=110003
+  @4='0'
+  @5=1503467483
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=111001
+  @2='全部'
+  @3=111001
+  @4='0'
+  @5=1533024685
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=111002
+  @2='全部'
+  @3=111002
+  @4='0'
+  @5=1533024786
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=112001
+  @2='全部'
+  @3=112001
+  @4='0'
+  @5=1535615316
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=112002
+  @2='全部'
+  @3=112002
+  @4='0'
+  @5=1535615358
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188001
+  @2='全部'
+  @3=188001
+  @4='0'
+  @5=1536108479
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188002
+  @2='全部'
+  @3=188002
+  @4='0'
+  @5=1536108643
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188003
+  @2='全部'
+  @3=188003
+  @4='0'
+  @5=1536109257
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188004
+  @2='全部'
+  @3=188004
+  @4='0'
+  @5=1536138377
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188005
+  @2='全部'
+  @3=188005
+  @4='0'
+  @5=1536141296
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188006
+  @2='全部'
+  @3=188006
+  @4='0'
+  @5=1536302591
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188007
+  @2='全部'
+  @3=188007
+  @4='0'
+  @5=1536893303
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188008
+  @2='全部'
+  @3=188008
+  @4='0'
+  @5=1536919727
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188009
+  @2='全部'
+  @3=188009
+  @4='0'
+  @5=1537151325
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188010
+  @2='全部'
+  @3=188010
+  @4='0'
+  @5=1537340469
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188011
+  @2='全部'
+  @3=188011
+  @4='0'
+  @5=1537434096
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188012
+  @2='全部'
+  @3=188012
+  @4='0'
+  @5=1537434213
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188013
+  @2='全部'
+  @3=188013
+  @4='0'
+  @5=1537434314
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188014
+  @2='全部'
+  @3=188014
+  @4='0'
+  @5=1537435411
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188015
+  @2='全部'
+  @3=188015
+  @4='0'
+  @5=1537435551
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188016
+  @2='全部'
+  @3=188016
+  @4='0'
+  @5=1539589675
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188017
+  @2='全部'
+  @3=188017
+  @4='0'
+  @5=1539593096
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188018
+  @2='全部'
+  @3=188018
+  @4='0'
+  @5=1540363883
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188019
+  @2='全部'
+  @3=188019
+  @4='0'
+  @5=1540364267
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188020
+  @2='全部'
+  @3=188020
+  @4='0'
+  @5=1540885882
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188021
+  @2='全部'
+  @3=188021
+  @4='0'
+  @5=1540886545
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188022
+  @2='全部'
+  @3=188022
+  @4='0'
+  @5=1540888669
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188023
+  @2='全部'
+  @3=188023
+  @4='0'
+  @5=1540889949
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188024
+  @2='全部'
+  @3=188024
+  @4='0'
+  @5=1540890335
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188025
+  @2='全部'
+  @3=188025
+  @4='0'
+  @5=1540890873
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188026
+  @2='全部'
+  @3=188026
+  @4='0'
+  @5=1540969273
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188027
+  @2='全部'
+  @3=188027
+  @4='0'
+  @5=1540971736
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188028
+  @2='全部'
+  @3=188028
+  @4='0'
+  @5=1541126361
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188029
+  @2='全部'
+  @3=188029
+  @4='0'
+  @5=1541126437
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188030
+  @2='全部'
+  @3=188030
+  @4='0'
+  @5=1541126584
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188031
+  @2='全部'
+  @3=188031
+  @4='0'
+  @5=1541568963
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188032
+  @2='全部'
+  @3=188032
+  @4='0'
+  @5=1542782446
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188033
+  @2='全部'
+  @3=188033
+  @4='0'
+  @5=1542786973
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=188034
+  @2='全部'
+  @3=188034
+  @4='0'
+  @5=1542966762
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=189001
+  @2='全部'
+  @3=189001
+  @4='0'
+  @5=1543195868
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=189002
+  @2='全部'
+  @3=189002
+  @4='0'
+  @5=1543202640
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=200001
+  @2='全部'
+  @3=200001
+  @4='0'
+  @5=1500624386
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=419001
+  @2='全部'
+  @3=419001
+  @4='0'
+  @5=1524101608
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=444001
+  @2='全部'
+  @3=444001
+  @4='0'
+  @5=1508120555
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=444002
+  @2='全部'
+  @3=444002
+  @4='0'
+  @5=1509959949
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=456002
+  @2='全部'
+  @3=456002
+  @4='0'
+  @5=1534319775
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=456003
+  @2='全部'
+  @3=456003
+  @4='0'
+  @5=1534319878
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500102
+  @2='全部'
+  @3=500102
+  @4='0'
+  @5=1503904459
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500103
+  @2='全部'
+  @3=500103
+  @4='0'
+  @5=1504267121
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500104
+  @2='全部'
+  @3=500104
+  @4='0'
+  @5=1504590689
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500105
+  @2='全部'
+  @3=500105
+  @4='0'
+  @5=1504591542
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500106
+  @2='全部'
+  @3=500106
+  @4='0'
+  @5=1506397927
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500107
+  @2='全部'
+  @3=500107
+  @4='0'
+  @5=1506398750
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=550101
+  @2='啊啊'
+  @3=5501
+  @4='0'
+  @5=1504837416
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=610014
+  @2='全部'
+  @3=610014
+  @4='0'
+  @5=1508296557
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=820001
+  @2='全部'
+  @3=820001
+  @4='0'
+  @5=1506411570
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=820002
+  @2='全部'
+  @3=820002
+  @4='0'
+  @5=1509007962
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=828001
+  @2='全部'
+  @3=828001
+  @4='0'
+  @5=1504181340
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=828002
+  @2='全部'
+  @3=828002
+  @4='0'
+  @5=1504229829
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=828003
+  @2='全部'
+  @3=828003
+  @4='0'
+  @5=1505369397
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=828004
+  @2='全部'
+  @3=828004
+  @4='0'
+  @5=1506508177
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=828005
+  @2='全部'
+  @3=828005
+  @4='0'
+  @5=1506509222
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=900001
+  @2='全部'
+  @3=900001
+  @4='0'
+  @5=1498192313
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999001
+  @2='全部'
+  @3=999001
+  @4='0'
+  @5=1500635635
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999008
+  @2='全部'
+  @3=999008
+  @4='0'
+  @5=1502197592
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999009
+  @2='全部'
+  @3=999009
+  @4='0'
+  @5=1502329874
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999010
+  @2='全部'
+  @3=999010
+  @4='0'
+  @5=1502330175
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999039
+  @2='全部'
+  @3=999039
+  @4='0'
+  @5=1510038264
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999040
+  @2='全部'
+  @3=999040
+  @4='0'
+  @5=1510038331
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999041
+  @2='全部'
+  @3=999041
+  @4='0'
+  @5=1511424797
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999042
+  @2='全部'
+  @3=999042
+  @4='0'
+  @5=1511424983
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999043
+  @2='全部'
+  @3=999043
+  @4='0'
+  @5=1513569590
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999044
+  @2='全部'
+  @3=999044
+  @4='0'
+  @5=1513569799
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999045
+  @2='全部'
+  @3=999045
+  @4='0'
+  @5=1513569856
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=999046
+  @2='全部'
+  @3=999046
+  @4='0'
+  @5=1514537940
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=1110000
+  @2='全部'
+  @3=1110000
+  @4='0'
+  @5=1533707888
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=1110001
+  @2='全部'
+  @3=1110001
+  @4='0'
+  @5=1533708036
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5001044
+  @2='全部'
+  @3=5001044
+  @4='0'
+  @5=1510135353
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5001066
+  @2='全部'
+  @3=5001066
+  @4='0'
+  @5=1513906956
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010100
+  @2='雄安ZT'
+  @3=100101
+  @4='0'
+  @5=1493243752
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010101
+  @2='雄安ZT-地产'
+  @3=100101
+  @4='0'
+  @5=1493243752
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010102
+  @2='雄安ZT-水泥'
+  @3=100101
+  @4='0'
+  @5=1493243752
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010106
+  @2='hahawa'
+  @3=100101
+  @4='0'
+  @5=1496237525
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010110
+  @2='gp01'
+  @3=100101
+  @4='0'
+  @5=1496239255
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010111
+  @2='code000002'
+  @3=100101
+  @4='0'
+  @5=1496239719
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010115
+  @2='OY'
+  @3=100101
+  @4='0'
+  @5=1497960016
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010116
+  @2='testabakfe'
+  @3=100101
+  @4='0'
+  @5=1500196652
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010200
+  @2='次新TB'
+  @3=100102
+  @4='0'
+  @5=1493243752
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010201
+  @2='edeere'
+  @3=100102
+  @4='0'
+  @5=1493243752
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10010203
+  @2='v回家'
+  @3=100102
+  @4='0'
+  @5=1494937052
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10090102
+  @2='全部'
+  @3=610030
+  @4='0'
+  @5=1500018062
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=10090103
+  @2='全部'
+  @3=50031
+  @4='0'
+  @5=1500018270
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11000201
+  @2='test'
+  @3=110002
+  @4='0'
+  @5=1504686300
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11000202
+  @2='test2'
+  @3=110002
+  @4='0'
+  @5=1504686399
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11000203
+  @2='test3'
+  @3=110002
+  @4='0'
+  @5=1504686452
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100001
+  @2='全部'
+  @3=11100001
+  @4='0'
+  @5=1533707690
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100002
+  @2='全部'
+  @3=11100002
+  @4='0'
+  @5=1533707973
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100032
+  @2='全部'
+  @3=11100032
+  @4='0'
+  @5=1533710297
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100033
+  @2='全部'
+  @3=11100033
+  @4='0'
+  @5=1535075777
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100034
+  @2='全部'
+  @3=11100034
+  @4='0'
+  @5=1535333350
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100035
+  @2='全部'
+  @3=11100035
+  @4='0'
+  @5=1535335203
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100036
+  @2='全部'
+  @3=11100036
+  @4='0'
+  @5=1536137378
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100037
+  @2='全部'
+  @3=11100037
+  @4='0'
+  @5=1537150413
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100038
+  @2='全部'
+  @3=11100038
+  @4='0'
+  @5=1537434065
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100039
+  @2='全部'
+  @3=11100039
+  @4='0'
+  @5=1537434254
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100040
+  @2='全部'
+  @3=11100040
+  @4='0'
+  @5=1537437968
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100041
+  @2='全部'
+  @3=11100041
+  @4='0'
+  @5=1538205919
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100042
+  @2='全部'
+  @3=11100042
+  @4='0'
+  @5=1540886775
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100043
+  @2='全部'
+  @3=11100043
+  @4='0'
+  @5=1540889487
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100044
+  @2='全部'
+  @3=11100044
+  @4='0'
+  @5=1540889620
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100045
+  @2='全部'
+  @3=11100045
+  @4='0'
+  @5=1540889998
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100046
+  @2='全部'
+  @3=11100046
+  @4='0'
+  @5=1540890218
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100047
+  @2='全部'
+  @3=11100047
+  @4='0'
+  @5=1540890882
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100048
+  @2='全部'
+  @3=11100048
+  @4='0'
+  @5=1540892312
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100049
+  @2='全部'
+  @3=11100049
+  @4='0'
+  @5=1542769464
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100050
+  @2='全部'
+  @3=11100050
+  @4='0'
+  @5=1542881834
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=20000101
+  @2='TestGroup'
+  @3=200001
+  @4='0'
+  @5=1502334099
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=50010006
+  @2='全部'
+  @3=50010006
+  @4='0'
+  @5=1516961583
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=50010007
+  @2='全部'
+  @3=50010007
+  @4='0'
+  @5=1521439321
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55168001
+  @2='全部'
+  @3=55168001
+  @4='0'
+  @5=1519699642
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=55168002
+  @2='全部'
+  @3=55168002
+  @4='0'
+  @5=1519699768
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900100
+  @2='全部'
+  @3=99900100
+  @4='0'
+  @5=1500949795
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900101
+  @2='全部'
+  @3=99900101
+  @4='0'
+  @5=1508296706
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900102
+  @2='全部'
+  @3=99900102
+  @4='0'
+  @5=1501151666
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900103
+  @2='全部'
+  @3=99900103
+  @4='0'
+  @5=1501151981
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900104
+  @2='全部'
+  @3=99900104
+  @4='0'
+  @5=1502185105
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=99900105
+  @2='全部'
+  @3=99900105
+  @4='0'
+  @5=1502446832
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500100001
+  @2='华泰'
+  @3=5001
+  @4='0'
+  @5=1526011228
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=500100002
+  @2='0907test'
+  @3=5001
+  @4='0'
+  @5=1536299103
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=4560100001
+  @2='31-3001-青年'
+  @3=45601
+  @4='0'
+  @5=1535702758
+  @6=3001
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=4560100002
+  @2='4561-456001-456'
+  @3=45601
+  @4='0'
+  @5=1535702758
+  @6=456001
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=4560100003
+  @2='4561-456002-子账号2'
+  @3=45601
+  @4='0'
+  @5=1535702758
+  @6=456002
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=4560100004
+  @2='4561-456003-子账号3'
+  @3=45601
+  @4='0'
+  @5=1535702758
+  @6=456003
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=5001000701
+  @2='123'
+  @3=50010007
+  @4='0'
+  @5=1524628884
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100100002
+  @2='分组1'
+  @3=111001
+  @4='0'
+  @5=1534319947
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100100003
+  @2='子账户2和3和4'
+  @3=111001
+  @4='0'
+  @5=1536298762
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100100004
+  @2='子账户2和3'
+  @3=111001
+  @4='0'
+  @5=1536298778
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=11100200001
+  @2='组一'
+  @3=111002
+  @4='0'
+  @5=1536718377
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=18800400001
+  @2='分组1'
+  @3=188004
+  @4='0'
+  @5=1536719377
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=18800500001
+  @2='分组1'
+  @3=188005
+  @4='0'
+  @5=1536719391
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=18800600001
+  @2='分组一'
+  @3=188006
+  @4='0'
+  @5=1539158177
+  @6=NULL
+DELETE FROM `tcdb`.`t_fund_channel_group`
+WHERE
+  @1=18800700001
+  @2='分组一'
+  @3=188007
+  @4='0'
+  @5=1539071284
+  @6=NULL
