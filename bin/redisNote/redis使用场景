@@ -8,3 +8,8 @@
 redis-benchmark：性能测试工具
 redis-server：启动redis服务器
 redis-cli：启动redis客户端，操作入口
+
+redis策略：
+1.主从
+2.哨兵
+3.集群

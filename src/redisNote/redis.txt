@@ -56,9 +56,13 @@ CONFIG SET loglevel "notice"
 redis.conf 配置项说明
 有需要就查一下
 
-Redis 数据类型
+启动redis服务器按照redis.conf文件 
+$redis-server redis.conf
 
+Redis 数据类型
 Redis支持五种数据类型：string（字符串），hash（哈希），list（列表），set（集合）及zset(sorted set：有序集合)。
+
+keys * 查看所有键值对
 
 String（字符串）
 string是redis最基本的类型，你可以理解成与Memcached一模一样的类型，一个key对应一个value。
@@ -68,6 +72,17 @@ redis 127.0.0.1:6379> SET name "runoob"
 OK
 redis 127.0.0.1:6379> GET name
 "runoob"
+常用指令：
+setnx有key值不在修改
+setex设置有效期
+setrange替换
+mset k1 v1 k2 v2 k3 v3..设置多个值
+mget k1 k2 k3..获取多个key值
+getset k v
+incr、decr对一个值进行递增和递减
+incrby k -step、decr k -step对一个值进行步长递增和递减
+append k 追加字符串
+strlen获取字符串长度
 
 Hash（哈希）
 Redis hash 是一个键名对集合。
@@ -82,6 +97,15 @@ OK
 4) "runoob"
 5) "points"
 6) "200"
+常用指令：
+hset hashName k v设置单个hashmap一对键值
+hget hashName k获取hashmap k对应的value
+hlen hashName返回hash键值数
+hdel hashName k 删除指定k
+hkeys hashName 返回所有键值
+hvals hashName 返回所有数值
+hgetAll hashName返回hash里所有的key和value
+
 
 List（列表）
 Redis 列表是简单的字符串列表，按照插入顺序排序。你可以添加一个元素到列表的头部（左边）或者尾部（右边）
@@ -97,6 +121,23 @@ redis 127.0.0.1:6379> lrange runoob 0 10
 1) "rabitmq"
 2) "mongodb"
 3) "redis"
+常用指令：
+push
+lpush从头部加入一个元素，先进后出，栈 
+lpush listName value
+lrange listName 0 -1(从头到尾)
+rpush从尾部加入一个元素，先进先出，队列
+pop
+linsert插入元素
+linsert listName before values
+lset将指定下标的元素替换掉
+lrem删除元素返回删除的个数
+ltrim保留指定key的值范围内的数据
+lpop从list头部删除元素，并返回删除元素
+rpop从list尾部删除元素，并返回删除元素
+rpoplpush第一步从尾部删除元素第二步从头部加入元素
+lindex返回list中index位置的元素
+llen返回元素的个数
 
 Set（集合）
 Redis的Set是string类型的无序集合。
@@ -431,5 +472,3 @@ Redis 有两种类型分区。 假设有4个Redis实例 R0，R1，R2，R3，和�
 另外一种分区方法是hash分区。这对任何key都适用，也无需是object_name:这种形式，像下面描述的一样简单：
 用一个hash函数将key转换为一个数字，比如使用crc32 hash函数。对key foobar执行crc32(foobar)会输出类似93024922的整数。
 对这个整数取模，将其转化为0-3之间的数字，就可以将这个整数映射到4个Redis实例中的一个了。93024922 % 4 = 2，就是说key foobar应该被存到R2实例中。注意：取模操作是取除的余数，通常在多种编程语言中用%操作符实现。
-
-感谢：http://www.runoob.com/
