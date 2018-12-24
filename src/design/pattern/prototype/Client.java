@@ -11,7 +11,7 @@ public class Client {
         WeeklyLog cloneLog = log.clone();
         log.setContent("小边不是小编。");
         cloneLog.printLog();
-        System.out.println(log.getTitle() == cloneLog.getTitle());
+        System.out.println(log.getContent() == cloneLog.getContent());
     }
 
 }
