@@ -17,7 +17,9 @@ public class RedisClient {
         
         
 /*		System.out.println(Long.parseLong("9900121504692063556"));
-		System.out.println(3.141516276432547354);*/
+		System.out.println(3.141516276432547354);
+		https://sv.baidu.com/videoui/page/videoland?context=%7B%22nid%22%3A%22sv_6902984503794215117%22%7D
+		*/
 	}
 
 }

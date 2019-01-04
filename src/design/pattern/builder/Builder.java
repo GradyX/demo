@@ -11,5 +11,10 @@ public abstract class Builder {
 	public Product getResult() {
 		return product;
 	}
+	//钩子方法
+	public boolean isPartC()
+	{
+	    return false;
+	}
 
 }
