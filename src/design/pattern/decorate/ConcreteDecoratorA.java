@@ -8,6 +8,7 @@ public class ConcreteDecoratorA extends Decorator {
 
 	@Override
 	public void operation() {
+	    super.operation();
 		System.out.println("decorator A");
 	}
 
