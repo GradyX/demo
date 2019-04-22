@@ -6,5 +6,9 @@ public class Father {
 		System.out.println("father sm");
 	}
 	
+	public void print() {
+	    System.out.println("Base");
+	}
+	
 	
 }
